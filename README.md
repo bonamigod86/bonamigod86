@@ -11,7 +11,7 @@ I am a self-directed Full-Stack Software Engineer and entrepreneur behind **BL3 
 
 - 🛠️ **Core Tech Stack:** Next.js, React, TypeScript, Node.js, Python, Tailwind CSS, Shadcn UI
 - 🛢️ **Databases & Cloud:** PostgreSQL, MySQL, Firebase / Firestore, Docker, Vercel
-- 🤖 **AI & Automation:** Agentic Development (AI-SDLC), n8n workflow automation, local LLM orchestrations (Ollama / Qwen)
+- 🤖 **AI & Automation:** Agentic Development (AI-SDLC), n8n workflow automation, local LLM orchestrations 
 - 📐 **Architecture:** BFF (Backend-For-Frontend), OAuth2 / JWT, REST APIs, Stripe Connect integration
 
 ---
