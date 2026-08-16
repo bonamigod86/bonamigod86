@@ -55,6 +55,11 @@ I am a self-directed Full-Stack Software Engineer and entrepreneur behind **BL3 
 - **Overview:** A complete scheduling platform featuring interactive admin dashboards, automated time-slot allocation, and real-time operational analytics.
 - **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL / Firebase, Context API.
 
+#### 🎬 [Máquina de Cortes](https://github.com/bonamigod86) — AI Video Clipping & Shorts Generator
+- **Role:** Creator & Lead Architect
+- **Overview:** An automated AI platform engineered to transcribe long-form media, identify highlight moments, and automatically generate short-form videos (Reels/Shorts/TikToks) with dynamic subtitles.
+- **Tech Stack:** Python, Node.js, Next.js, Whisper / Speech-to-Text APIs, FFmpeg processing pipelines.
+
 ---
 
 ### ⚙️ Engineering & Delivery Practices
