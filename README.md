@@ -81,6 +81,6 @@ Rather than manual syntax typing, I focus on **end-to-end product architecture a
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/danilo-bonamigo](https://linkedin.com/in/danilo-bonamigo)
+* **LinkedIn:** [linkedin.com/in/danilo-bonamigo](https://linkedin.com/in/danilobonamigo)
 * **Website:** [bl3studio.com](https://bl3studio.com)
 * **Location:** Registro, SP, Brazil (Open to Remote / Global Contracts)
