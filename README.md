@@ -60,7 +60,14 @@ Rather than manual syntax typing, I focus on **end-to-end product architecture a
 * **Role:** Creator & Lead Engineer
 * **Overview:** Master/follower rehearsal platform where the bandleader pushes the active song, setlist, global key, and scroll state to every device in real time — with ChordPro charts, automatic key transposition, and tablature rendering.
 * **Key Features:** Sub-second cross-device sync, automated chord & tab fetching (Cifra Club / Ultimate Guitar), predictive auto-scroll, visual + audio metronome, local audio playback, and a zero-config demo mode.
-Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Firebase Realtime Database, Web Audio API.
+* **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase Realtime Database, Web Audio API.
+
+#### 📝 StickyTab — Digital Sticky-Note Customer Tab Management
+
+* **Role:** Creator & Lead Engineer
+* **Overview:** A fast, highly visual customer tab and ticket management system that replaces traditional paper notebooks and rigid table grids with a flexible, real-time digital sticky-note wall.
+* **Key Features:** Interactive corkboard board layout, dynamic tab creation by customer name, fast item entry with quick-add controls, auto-calculated running totals, color-coded order status indicators, and built-in analytics for customer rankings and best-selling products.
+* **Tech Stack:** Next.js (App Router), React, TypeScript, Tailwind CSS.
 
 ---
 
