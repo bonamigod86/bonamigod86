@@ -56,7 +56,7 @@ Rather than manual syntax typing, I focus on **end-to-end product architecture a
 * **Overview:** Full-stack reservation engine featuring interactive admin dashboards, automated time-slot allocation, and real-time operational analytics.  
 * **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL / Firebase.
 
-####🎸 StageSync — Real-Time Band Rehearsal App
+#### 🎸 StageSync — Real-Time Band Rehearsal App
 * **Role:** Creator & Lead Engineer
 * **Overview:** Master/follower rehearsal platform where the bandleader pushes the active song, setlist, global key, and scroll state to every device in real time — with ChordPro charts, automatic key transposition, and tablature rendering.
 * **Key Features:** Sub-second cross-device sync, automated chord & tab fetching (Cifra Club / Ultimate Guitar), predictive auto-scroll, visual + audio metronome, local audio playback, and a zero-config demo mode.
