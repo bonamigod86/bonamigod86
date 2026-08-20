@@ -8,7 +8,7 @@
 
 I am an **AI Product Architect** and entrepreneur behind **BL3 Studio**. I specialize in taking complex or vague business requirements and turning them into production-grade software—discovering user friction, defining testable specs, and leveraging **AI-augmented engineering workflows (AI-SDLC)** to build and ship systems with extreme speed and reliability.
 
-Rather than manual syntax typing, I focus on **end-to-end product architecture and system design**—orchestrating local and cloud LLMs (Cursor, Ollama, Qwen, Gemini API, Whisper), robust backend pipelines, and real-time data flows.
+Rather than manual syntax typing, I focus on **end-to-end product architecture and system design**—orchestrating local and cloud LLMs, robust backend pipelines, and real-time data flows.
 
 * **📐 Core Capabilities:** Systems Architecture, SaaS Multi-Tenant Design, Real-Time Dispatch Systems, Agentic Workflows, API Security (BFF / Webhooks), Database Schemas.
 * **🛠️ Core Stack:** Next.js, React, TypeScript, Node.js, Python, Tailwind CSS, Shadcn UI.
