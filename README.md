@@ -36,6 +36,12 @@ Rather than manual syntax typing, I focus on **end-to-end product architecture a
 * **Overview:** Performance analytics and diagnostic extraction platform evaluating digital presence, spatial document intelligence, and operational bottlenecks.  
 * **Tech Stack:** Node.js, Python scrapers, n8n automation pipelines, RAG / LLM extraction.
 
+#### 👑 SaaS Leaderboard Engine
+* **Role:** Creator & Lead Engineer
+* **Overview:** A real-time continuous auction and leaderboard engine that powers a high-status "Manifesto" showcase for the Brazilian SaaS ecosystem, replacing static directories with a dynamic, instant-payment-driven throne.
+* **Key Features:** Single-exclusivity "Manifesto" top banner, live WebSocket/SSE sync, dynamic rank calculator for flexible bids, cumulative lifetime spend tracking per SaaS, instant PIX dynamic QR Code checkout with webhook triggers, automated outbid re-engagement alerts, and auto-generated social share cards.
+* **Tech Stack:** Next.js (App Router), React, TypeScript, Tailwind CSS, PostgreSQL, Supabase Realtime, Node.js.
+
 #### 🎬 Máquina de Cortes — AI Video Clipping & Shorts Generator
 * **Role:** Creator & Lead Architect  
 * **Overview:** Automated AI platform engineered to transcribe long-form media, perform spatial analysis, and automatically generate short-form content with dynamic subtitles.  
